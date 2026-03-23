@@ -32,7 +32,6 @@ The system integrates multiple engines:
 
 ## Project Structure
 
-```text
 .
 ├── demos/
 ├── experiments/
@@ -56,9 +55,7 @@ The system integrates multiple engines:
 
 Example:
 
-```bash
 python mcp_server.py
-```markdown
 
 ## Example Use Cases
 
